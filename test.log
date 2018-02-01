@@ -1,0 +1,17 @@
+....................................
+tis 6 mar 2018 10:57:37 CET . Starting the evaluation of A4.
+....................................
+This is version
+2017-11-15 11:38:50 +0100 Patrik Arlos 17bfb90ef03e1c6fca6ef65271b1f6b0482305df
+ 
+[SNMPtrapd] Hopefully ok
+[SNMPtrapd] traphandler was found in config file
+[SNMPtrapd] disableAuthorization found in config file, keeping it simple :)
+2018-57-06 10:03:37  Starting snmptrapd 
+2018-57-06 10:03:37  Starting webserver 
+***Killing snmptrapd, 20347***
+0 S root     20590 20588  0  80   0 -  3941 pipe_w 10:58 pts/1    00:00:00 grep 20347 
+--------------------
+***Killing webserver, 20352 ***
+0 S root     20601 20599  0  80   0 -  3941 -      10:58 pts/1    00:00:00 grep 20352 
+--------------------
